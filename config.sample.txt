@@ -1,0 +1,3 @@
+username=user
+password=password
+url=https://my-nextcloud.example.com/remote.php/dav/files
